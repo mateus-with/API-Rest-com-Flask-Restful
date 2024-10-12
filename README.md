@@ -1,4 +1,4 @@
-# API Rest com Flask - The Games
+# API Rest com Flask
 
 ## Criar o ambiente virtual
 
